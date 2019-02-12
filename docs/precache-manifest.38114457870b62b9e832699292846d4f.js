@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/chunk-vendors.a81164a3.js"
   },
   {
-    "revision": "dd84d26df557b56700e5",
-    "url": "/vueP5jsPWA/js/app.21bafca1.js"
+    "revision": "fc68902689633ecb7dae",
+    "url": "/vueP5jsPWA/js/app.b462690e.js"
   },
   {
-    "revision": "124e793bc059a3dbbcfb",
-    "url": "/vueP5jsPWA/js/about.e46dd7e0.js"
+    "revision": "0d36387d46ef3533cf94",
+    "url": "/vueP5jsPWA/js/about.0c07d76e.js"
   },
   {
-    "revision": "ad1cc6bface1fc96144e1b1fd4a0ac60",
+    "revision": "af215c474dbef7728ba56db563438495",
     "url": "/vueP5jsPWA/index.html"
   },
   {
-    "revision": "dd84d26df557b56700e5",
+    "revision": "fc68902689633ecb7dae",
     "url": "/vueP5jsPWA/css/app.94aae386.css"
   },
   {
-    "revision": "124e793bc059a3dbbcfb",
-    "url": "/vueP5jsPWA/css/about.dced3254.css"
+    "revision": "0d36387d46ef3533cf94",
+    "url": "/vueP5jsPWA/css/about.543ba4a0.css"
   }
 ];
