@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/chunk-vendors.a81164a3.js"
   },
   {
-    "revision": "bf77ab141e3332943564",
-    "url": "/vueP5jsPWA/js/app.44a0aa07.js"
+    "revision": "f9025b3a5adc8c1a9b53",
+    "url": "/vueP5jsPWA/js/app.49e61c7a.js"
   },
   {
-    "revision": "80959a245f25e6860a6b",
-    "url": "/vueP5jsPWA/js/about.d8e522ee.js"
+    "revision": "61f9eb8b673fba75a031",
+    "url": "/vueP5jsPWA/js/about.83dda598.js"
   },
   {
-    "revision": "3015185b94065dae09b2b69d3e8a8d5b",
+    "revision": "b74565c68fda3012bf06ee8a280ae80c",
     "url": "/vueP5jsPWA/index.html"
   },
   {
-    "revision": "bf77ab141e3332943564",
-    "url": "/vueP5jsPWA/css/app.00455312.css"
+    "revision": "f9025b3a5adc8c1a9b53",
+    "url": "/vueP5jsPWA/css/app.94aae386.css"
   },
   {
-    "revision": "80959a245f25e6860a6b",
-    "url": "/vueP5jsPWA/css/about.c4d470fe.css"
+    "revision": "61f9eb8b673fba75a031",
+    "url": "/vueP5jsPWA/css/about.0db5c335.css"
   }
 ];
