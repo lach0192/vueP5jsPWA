@@ -1,6 +1,6 @@
 {
-  "name": "vue-pwa-p5",
-  "short_name": "McM Vue PWA",
+  "name": "vue-pwa-p5-examples",
+  "short_name": "P5js Examples",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
