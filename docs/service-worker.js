@@ -1,4 +1,4 @@
-importScripts("/vueP5jsPWA/precache-manifest.c3f03604f6beab6eb9b576cacf204697.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/vueP5jsPWA/precache-manifest.96a98ea8d0ef82fea0b2868ad4ad83ff.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 if (workbox) {
     console.log(`Workbox is loaded`);
