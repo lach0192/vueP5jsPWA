@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/about~44028c3c.ee8704ce.js"
   },
   {
-    "revision": "b54f823de2eca1bf5df8",
-    "url": "/vueP5jsPWA/js/app~d0ae3f07.df7eeb92.js"
+    "revision": "f75feb5b6da0d8d5423e",
+    "url": "/vueP5jsPWA/js/app~d0ae3f07.0b2184f9.js"
   },
   {
     "revision": "6b7c7a764a9b24786efe",
@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/chunk-vendors~e1ee825c.8b5f39af.js"
   },
   {
-    "revision": "fabbfb181dc0f47b4197",
-    "url": "/vueP5jsPWA/js/about~31ecd969.6dc92fb6.js"
+    "revision": "facfed703b8dd3798127",
+    "url": "/vueP5jsPWA/js/about~31ecd969.ed86ca71.js"
   },
   {
-    "revision": "e00974ba86c3ceb13af10df7c45fced9",
+    "revision": "26bb7b4f72468c30d11e0b467cc60255",
     "url": "/vueP5jsPWA/index.html"
   },
   {
-    "revision": "b54f823de2eca1bf5df8",
+    "revision": "f75feb5b6da0d8d5423e",
     "url": "/vueP5jsPWA/css/app~d0ae3f07.b1f6641b.css"
   },
   {
-    "revision": "fabbfb181dc0f47b4197",
+    "revision": "facfed703b8dd3798127",
     "url": "/vueP5jsPWA/css/about~31ecd969.8eff713f.css"
   }
 ];
