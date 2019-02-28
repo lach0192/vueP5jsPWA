@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/about~44028c3c.292efa87.js"
   },
   {
-    "revision": "f531049b33e095604ff2",
-    "url": "/vueP5jsPWA/js/app~d0ae3f07.7f12e19b.js"
+    "revision": "220efabddb73db2d08c6",
+    "url": "/vueP5jsPWA/js/app~d0ae3f07.98c1f22c.js"
   },
   {
     "revision": "e7873d49457b0df4218f",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/about~31ecd969.69fe445e.js"
   },
   {
-    "revision": "fc5820c7c79c198f68371f38a9bc638f",
+    "revision": "e5cd05567f6a90622cccd61e8d682cb7",
     "url": "/vueP5jsPWA/index.html"
   },
   {
-    "revision": "f531049b33e095604ff2",
-    "url": "/vueP5jsPWA/css/app~d0ae3f07.aa520ffd.css"
+    "revision": "220efabddb73db2d08c6",
+    "url": "/vueP5jsPWA/css/app~d0ae3f07.0a1ad152.css"
   },
   {
     "revision": "35da98cf09b40f86bd86",
