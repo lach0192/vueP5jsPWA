@@ -1,29 +1,21 @@
-/**
- * Welcome to your Workbox-powered service worker!
- *
- * You'll need to register this file in your web app and you should
- * disable HTTP caching for this file too.
- * See https://goo.gl/nhQhGp
- *
- * The rest of the code is auto-generated. Please don't update this file
- * directly; instead, make changes to your Workbox build configuration
- * and re-run your build process.
- * See https://goo.gl/2aRDsh
- */
+importScripts("/vueP5jsPWA/precache-manifest.99d4222711cebf7ed1bf011e0b9a0b69.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+/* eslint-disable */
+if (workbox) {
+  console.log(`Workbox is loaded`)
 
-importScripts(
-  "/precache-manifest.fd212df4159b81aaf350f8dfdedebacd.js"
-);
+  // workbox.precaching.precacheAndRoute(self.__precacheManifest);
+  self.__precacheManifest = [].concat(self.__precacheManifest || [])
+  workbox.precaching.suppressWarnings()
+  workbox.precaching.precacheAndRoute(self.__precacheManifest, {})
 
-workbox.core.setCacheNameDetails({prefix: "vue-pwa-p5-examples-v2"});
+  // install new service worker when ok, then reload page
+  self.addEventListener('message', msg => {
+    if (msg.data.action == 'skipWaiting') {
+      self.skipWaiting()
+    }
+  })
+} else {
+  console.log(`Workbox didn't load`)
+}
 
-/**
- * The workboxSW.precacheAndRoute() method efficiently caches and responds to
- * requests for URLs in the manifest.
- * See https://goo.gl/S9QRab
- */
-self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.suppressWarnings();
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
