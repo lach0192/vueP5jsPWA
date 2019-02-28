@@ -1,4 +1,4 @@
-importScripts("/vueP5jsPWA/precache-manifest.cdb928f29b51c8d2cb017073e206955b.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/vueP5jsPWA/precache-manifest.7846c8b59638d201b8113e1a7aff09c1.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 /* eslint-disable */
 if (workbox) {
