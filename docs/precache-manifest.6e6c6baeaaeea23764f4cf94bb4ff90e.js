@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/about~44028c3c.292efa87.js"
   },
   {
-    "revision": "91fac80e85967aac297f",
-    "url": "/vueP5jsPWA/js/app~d0ae3f07.dff20f06.js"
+    "revision": "6d54aa011a7318830f73",
+    "url": "/vueP5jsPWA/js/app~d0ae3f07.73ab8998.js"
   },
   {
     "revision": "e7873d49457b0df4218f",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/js/chunk-vendors~fdc6512a.57418eb8.js"
   },
   {
-    "revision": "b30184681f4fddde34a2",
-    "url": "/vueP5jsPWA/js/about~31ecd969.71eb48b6.js"
+    "revision": "70d4132ac78e17469d02",
+    "url": "/vueP5jsPWA/js/about~31ecd969.e64b05ea.js"
   },
   {
-    "revision": "c335e040052b809e288241054fd49c96",
+    "revision": "3555e32c2eec18fe1266244f53a3ac93",
     "url": "/vueP5jsPWA/index.html"
   },
   {
@@ -48,11 +48,11 @@ self.__precacheManifest = [
     "url": "/vueP5jsPWA/img/data/texture.png"
   },
   {
-    "revision": "91fac80e85967aac297f",
+    "revision": "6d54aa011a7318830f73",
     "url": "/vueP5jsPWA/css/app~d0ae3f07.0a1ad152.css"
   },
   {
-    "revision": "b30184681f4fddde34a2",
+    "revision": "70d4132ac78e17469d02",
     "url": "/vueP5jsPWA/css/about~31ecd969.5e777bf3.css"
   }
 ];
